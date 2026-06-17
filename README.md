@@ -4,7 +4,6 @@ Live World Cup 2026 companion app — schedule, standings, knockout bracket, and
 
 تطبيق مصاحب لكأس العالم 2026 — جدول المباريات، الترتيب، شجرة الإقصائيات، وخيارات المشاهدة القانونية. يدعم اللغتين الإنجليزية والعربية.
 
-![Logo](logo.png)
 
 ## Features | المميزات
 
